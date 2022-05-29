@@ -9,7 +9,7 @@
 * A complete full stack website has been created.Every part of which is mobile and pc responsive,
 * Basically this website The focus is on the work of the backend,dashboard, payment method.
 ## Tecnology use:- Firebase, react router, react router hooks , react toastify,react reavel,react AOS,react image-magnify,react typed.js,daisyui,tailwind,image-magnify, plain css etc.
-In the project directory, you can run:
+In the project directory, you can run::
 
 ### `npm start`
 
