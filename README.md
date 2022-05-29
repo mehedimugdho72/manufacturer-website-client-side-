@@ -11,7 +11,7 @@
 ## Tecnology use:- Firebase, react router, react router hooks , react toastify,react reavel,react AOS,react image-magnify,react typed.js,daisyui,tailwind,image-magnify, plain css etc.
 In the project directory, you can run::
 
-### `npm start`
+## `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
