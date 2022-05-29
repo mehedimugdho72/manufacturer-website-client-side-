@@ -1,5 +1,5 @@
 # Project Name:-  Manufacture Plant Ltd.
-## [Firebase Live Site Hosting link](https://manufacturing-plant.web.app/).
+## [Firebase Live Site Hosting link](https://manufacture-palnt-client.web.app/).
 ## [Server Site Code link]().
 
 ## Project Description:-
