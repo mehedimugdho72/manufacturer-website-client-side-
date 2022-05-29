@@ -1,0 +1,19 @@
+.header-title {
+    color: #f3a11e;
+    font-weight: 700;
+    
+}
+
+
+.header-title:hover {
+    color: white;
+}
+.navStyle{
+    /* z-index: 1; */
+}
+
+@media only screen and (min-width: 600px) {
+    .drawer-button{
+        display: none;
+    }
+  }

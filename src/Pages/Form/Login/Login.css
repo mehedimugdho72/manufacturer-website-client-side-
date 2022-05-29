@@ -1,0 +1,24 @@
+.loginContainer{
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+}
+.login-img{
+    width: 100%;
+}
+.form-button{
+    background-color: #f0af47 ;
+    padding: 6px 18px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: larger;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .loginContainer{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+  }

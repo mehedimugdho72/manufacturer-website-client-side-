@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "manufacture-palnt-client",
+    "build": "manufacture-palnt-client"
+  },
+  "targets": {}
+}

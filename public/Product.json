@@ -1,0 +1,56 @@
+[
+    {
+      "picture": "https://i.ibb.co/6mYNbWp/product2.jpg",
+      "PPU": 200,
+      "name": "Pipes",
+      "gender": "female",
+      "Description":"Thickness is 2.77.Unit Pipe Length . And it Unit Pipe Length is 3 meter, 6 meter, 9 meter, 18 meter.Outside Diameter is 21.3",
+      "MOQ": 250,
+      "Available-quantity": 15800
+    },
+    {
+      "picture": "https://i.ibb.co/54fvrVz/product3.jpg",
+      "PPU": 450,
+      "name": "Valves",
+      "gender": "male",
+      "Description":" Valve type IC gate valve SS304 screwed end.Material Stainless Steel .Size 15MM 1/2 TO 80MM . And it connection type is Screwed",
+      "MOQ": 200,
+      "Quantity": 9800
+    },
+    {
+      "picture": "https://i.ibb.co/Cmg8pjF/product5.jpg",
+      "PPU": 100,
+      "name": "Flanges",
+      "gender": "male",
+      "Description":" Material Standard ASTM A105, ASTM A182, ANSI B16.5. Shape IS ROUND, And It is Material Stainless Steel ",
+      "MOQ": 125,
+      "Quantity": 10500
+    },
+    {
+      "picture": "https://i.ibb.co/NTGCGCz/angle.jpg",
+      "PPU": 120,
+      "name": "Angle",
+      "gender": "female",
+      "Description":"Work on your abs and core with state-of-the-art equipments specially brought to you by the best gym in Power Zone.",
+      "MOQ": 300,
+      "Available-quantity": 13500
+    },
+    {
+      "picture": "https://i.ibb.co/6XpZDWr/51-Le-Vcm-Gj9-L-AC-SY355.jpg",
+      "PPU": 10,
+      "name": "Fitings",
+      "gender": "male",
+      "Description":"Useage Chemical Fertilizer Pipe.It Shape is Round.It is Material Stainless. SteelSize 3/4 inch",
+      "MOQ": 450,
+      "Available-quantity": 12800
+    },
+    {
+      "picture": "https://i.ibb.co/0tcF8qh/2-500x500.jpg",
+      "PPU": 100,
+      "name": "Round Bars",
+      "gender": "male",
+      "Description":" Single Piece Length 6 meter, 18 meter, 3 meter.It is Material Stainless.Shape Is Round.Size 36 mm to 93 mm are available",
+      "MOQ": 250,
+      "Available-quantity": 5800
+    }
+  ]
